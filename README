@@ -1,0 +1,9 @@
+# Tiny game
+
+* by mary rose cook
+* http://maryrosecook.com
+* maryrosecook@maryrosecook.com
+
+A miniscule RPG in JavaScript.  The framework is 60 lines and the game is 50 lines.  The basic code structure could easly accommodate a 5000 line game.
+
+Written for a presentation at Hacker School
