@@ -4,6 +4,6 @@
 * http://maryrosecook.com
 * maryrosecook@maryrosecook.com
 
-A miniscule RPG in JavaScript.  The framework is 60 lines and the game is 50 lines.  The basic code structure could easly accommodate a 5000 line game.
+A miniscule RPG in JavaScript.  Made to demonstrate how easy it is to write a game from scratch. The framework is 60 lines of code. The game is 50 lines.  The basic structure could easly accommodate a 5000 line game.
 
-Written for a presentation at Hacker School
+I did a lightning talk through the code at Hacker School on 2nd May 2013.
